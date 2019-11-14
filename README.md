@@ -1,2 +1,2 @@
-# clustering_points
-
+# Clustering
+K-means & Agglomerative Hierarchical Clustering with Python
