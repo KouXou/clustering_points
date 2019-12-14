@@ -1,6 +1,9 @@
 # Clustering
 K-means & Agglomerative Hierarchical Clustering with Python
 
+Google Colab link:
+https://colab.research.google.com/github/KouXou/clustering_points/blob/master/Points.ipynb
+
 Parameters 
 
 K-MEANS PARAMS
